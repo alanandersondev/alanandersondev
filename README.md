@@ -35,13 +35,24 @@ Currently, I'm focused on **Back-end development with Java**, building REST APIs
 ---
 
 ## 🐍 Snake Animation
-![Snake animation](https://github.com/alanandersondev/alanandersondev/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/alanandersondev/alanandersondev/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/alanandersondev/alanandersondev/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/alanandersondev/alanandersondev/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
 <p align="center">
-<a href="https://github.com/alanandersondev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alanandersondev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alanandersondev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>

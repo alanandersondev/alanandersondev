@@ -35,5 +35,14 @@ Currently, I'm focused on **Back-end development with Java**, building REST APIs
 ---
 
 <p align="center">
+<a href="https://github.com/alanandersondev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alanandersondev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alanandersondev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
+
+<p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>

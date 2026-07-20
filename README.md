@@ -35,7 +35,13 @@ Currently, I'm focused on **Back-end development with Java**, building REST APIs
 ---
 
 ## 🐍 Snake Animation
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alanandersondev/alanandersondev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
+<p align="center">
+<a href="https://github.com/alanandersondev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alanandersondev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alanandersondev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

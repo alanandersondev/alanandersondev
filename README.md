@@ -1,0 +1,41 @@
+# 👋 Hello, Devs!
+
+## 💻 About Me
+
+My name is **Alan**.
+
+### Java Developer | Spring Boot | REST APIs | Computer Science Student
+
+🎓 I'm a **Computer Science** student passionate about software development and always looking for new challenges.
+
+Currently, I'm focused on **Back-end development with Java**, building REST APIs with Spring Boot while expanding my knowledge of software architecture, databases, and cloud computing.
+
+- 🎓 Computer Science Student
+- 🌱 Currently learning **Java, Spring Boot, and REST APIs**
+- ☁️ Oracle Cloud Infrastructure (OCI) Foundations Associate Certified
+- 🚀 Collaborating on the **Hackathon ONE G9 (Oracle Next Education + Alura)** project
+- 📚 Always learning new technologies and software development best practices
+
+---
+
+## 📫 Contact
+<a href="https://www.linkedin.com/in/alan-anderson-dev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+---
+
+## 🛠️ Technologies & Tools
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></n>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/></n>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/></n>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/></n>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/></n>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/></n>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/></n>
+
+---
+
+## 🐍 Snake Animation
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+---
+
